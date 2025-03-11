@@ -1,0 +1,9 @@
+
+.external-style {
+    color: red;
+    font-size: 18px;
+    text-align: center;
+    background-color: yellow;
+    padding: 10px;
+    border: 2px solid black;
+}
